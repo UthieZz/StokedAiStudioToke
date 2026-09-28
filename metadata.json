@@ -1,0 +1,6 @@
+{
+  "name": "StokeD4T",
+  "description": "Connoisseur Luxury Operations Suite and AI Intel Analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
